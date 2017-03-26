@@ -14,7 +14,7 @@ Documentation in epub and Kindle format for developers
   - [1.9.11 epub](https://github.com/pferretti/docsforkindle/blob/master/django/Django%201.9.11%20-%20Django%20Software%20Foundation.epub)
   - [1.9.11 mobi](https://github.com/pferretti/docsforkindle/raw/master/django/Django%201.9.11%20-%20Django%20Software%20Foundation.mobi)
   - [1.10 epub](https://github.com/pferretti/docsforkindle/raw/master/django/Django%201.10%20-%20Django%20Software%20Foundation.epub)
-  - [1.10 mobi](https://github.com/pferretti/docsforkindle/raw/master/django/Django%201.9.11%20-%20Django%20Software%20Foundation.mobi)
+  - [1.10 mobi](https://github.com/pferretti/docsforkindle/raw/master/django/Django%201.10%20-%20Django%20Software%20Foundation.mobi)
 - ECMA
   - [6th Edition / June 2015 epub](https://github.com/pferretti/docsforkindle/raw/master/ecma/ECMAScript%202015%20Language%20Specification.epub)
   - [6th Edition / June 2015 mobi](https://github.com/pferretti/docsforkindle/raw/master/ecma/ECMAScript%202015%20Language%20Specification.mobi)
