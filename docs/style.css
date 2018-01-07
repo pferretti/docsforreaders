@@ -1,0 +1,12 @@
+.card {
+    margin-top: 10px;
+}
+
+.download-buttons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.download-buttons a {
+    margin-left: 5px;
+}
