@@ -1,3 +1,7 @@
 .card {
     margin-top: 10px;
 }
+
+table.table tbody tr td {
+    vertical-align: middle;
+}
